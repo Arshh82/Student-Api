@@ -2,7 +2,7 @@
   
   "students": [
     {
-      "sid": 1,
+      "id": 1,
       "sname": "arshil",
       "semail": "arshil@gmail.com",
       "scontact": "6666666666",
@@ -16,7 +16,7 @@
       "sCat": "frontend"
     },
     {
-      "sid": 2,
+      "id": 2,
       "sname": "anas",
       "semail": "anassayyed@gmail.com",
       "scontact": "9858785845",
@@ -30,7 +30,7 @@
       "sCat": "back-end"
     },
     {
-      "sid": 3,
+      "id": 3,
       "sname": "shafaq",
       "semail": "shafaqkhilji@gmail.com",
       "scontact": "9795963696",
@@ -44,7 +44,7 @@
       "sCat": "back-end"
     },
     {
-      "sid": 4,
+      "id": 4,
       "sname": "abhay",
       "semail": "abhayjain@gmail.com",
       "scontact": "9896969998",
@@ -58,7 +58,7 @@
       "sCat": "full-stack"
     },
     {
-      "sid": 5,
+      "id": 5,
       "sname": "rounak",
       "semail": "rounaksoni@gmail.com",
       "scontact": "7548585858",
