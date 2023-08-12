@@ -7,44 +7,169 @@
       "email": "arshil@gmail.com",
       "contact": "6666666666",
       "address": "indore",
-      "college": "Khalsa",
-      "degree": "MBA",
-      "amount": 4000,
-      "paidamount": 4000,
-      "dueamount": 6000,
-      "course": "react"
+      "college": "MB Khalsa",
+      "degree": "MCA",
+      "amount": 50000,
+      "paidamount": 20000,
+      "dueamount": 30000,
+      "course": "react",
+      "Cat": "frontend"
+    },
+    {
+      "id": 2,
+      "name": "anas",
+      "email": "anassayyed@gmail.com",
+      "contact": "9858785845",
+      "address": "indore",
+      "college": "MGM",
+      "degree": "BCA",
+      "amount": 70000,
+      "paidamount": 30000,
+      "dueamount": 40000,
+      "course": "php",
+      "Cat": "back-end"
+    },
+    {
+      "id": 3,
+      "name": "shafaq",
+      "email": "shafaqkhilji@gmail.com",
+      "contact": "9795963696",
+      "address": "indore",
+      "college": "MGM",
+      "degree": "BCA",
+      "amount": 70000,
+      "paidamount": 30000,
+      "dueamount": 40000,
+      "course": "php",
+      "Cat": "back-end"
+    },
+    {
+      "id": 4,
+      "name": "abhay",
+      "email": "abhayjain@gmail.com",
+      "contact": "9896969998",
+      "address": "dewas",
+      "college": "APJ",
+      "degree": "B.tech",
+      "amount": 100000,
+      "paidamount": 50000,
+      "dueamount": 50000,
+      "course": "mern",
+      "Cat": "full-stack"
+    },
+    {
+      "id": 5,
+      "name": "rounak",
+      "email": "rounaksoni@gmail.com",
+      "contact": "7548585858",
+      "address": "ujjain",
+      "college": "Prestige",
+      "degree": "M.tech",
+      "amount": 120000,
+      "paidamount": 70000,
+      "dueamount": 50000,
+      "course": "python",
+      "Cat": "full-stack"
     }
   ],
   "teachers": [
     {
       "id": 1,
-      "name": "anas",
-      "email": "anassayyed@gmail.com",
-      "pwd": "anas@1234",
-      "contact": "8888888888",
-      "joindate":"01-01-2022",
+      "name": "ali",
+      "email": "alichowdhary@gmail.com",
+      "pwd": "12345",
+      "contact": "9659898787",
+      "joindate":"01-01-2018",
       "education":"BBA",
       "experiance":"1 Year",
       "gender":"male",
       "course":"react js",
+      "image":"https://cdn-icons-png.flaticon.com/512/149/149071.png"
+    },{
+      "id": 2,
+      "name": "talha",
+      "email": "talhasayyed@gmail.com",
+      "pwd": "12345",
+      "contact": "6569696959",
+      "joindate":"02-02-2019",
+      "education":"MBA",
+      "experiance":"2.5 Year",
+      "gender":"male",
+      "course":"BD",
+      "image":"https://cdn-icons-png.flaticon.com/512/149/149071.png"
+    },
+    {
+      "id": 3,
+      "name": "kashish",
+      "email": "kashishwadhwani@gmail.com",
+      "pwd": "12345",
+      "contact": "7584858596",
+      "joindate":"10-03-2017",
+      "education":"BCA",
+      "experiance":"3 Year",
+      "gender":"female",
+      "course":"MERN",
+      "image":"https://cdn-icons-png.flaticon.com/512/149/149071.png"
+    },
+    {
+      "id": 4,
+      "name": "muskan",
+      "email": "muskankushwah@gmail.com",
+      "pwd": "12345",
+      "contact": "8595969695",
+      "joindate":"03-10-2020",
+      "education":"CS",
+      "experiance":"1 Year",
+      "gender":"female",
+      "course":"JAVA",
       "image":"https://cdn-icons-png.flaticon.com/512/149/149071.png"
     }
   ],
   "course": [
     {
       "id": 1,
-      "name": "arshil",
-      "amount": 45000,
-      "duration": "4 month"
+      "name": "react-js",
+      "amount": 50000,
+      "duration": "12 month"
+    },
+    {
+      "id": 2,
+      "name": "mern",
+      "amount": 100000,
+      "duration": "12 month"
+    },
+    {
+      "id": 3,
+      "name": "mean",
+      "amount": 100000,
+      "duration": "12 month"
+    },
+    {
+      "id": 4,
+      "name": "python",
+      "amount": 120000,
+      "duration": "14 month"
+    },
+    {
+      "id": 5,
+      "name": "java",
+      "amount": 150000,
+      "duration": "18 month"
+    },
+    {
+      "id": 6,
+      "name": "angular",
+      "amount": 60000,
+      "duration": "10 month"
     }
   ],
   "users": [
     {
       "id": 1,
-      "name": "arshilbaig",
+      "name": "arshil",
       "email": "arshilbaig@gmail.com",
       "contact": "8545699969",
-      "pwd": "arshilbaig@1234"
+      "pwd": "123456"
     }
   ],
   "profile": {
