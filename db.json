@@ -74,7 +74,7 @@
   ],
   "teachers": [
     {
-      "tid": 1,
+      "id": 1,
       "tname": "ali",
       "temail": "alichowdhary@gmail.com",
       "tpwd": "12345",
@@ -86,7 +86,7 @@
       "tcourse":"react js",
       "timage":"https://cdn-icons-png.flaticon.com/512/149/149071.png"
     },{
-      "tid": 2,
+      "id": 2,
       "tname": "talha",
       "temail": "talhasayyed@gmail.com",
       "tpwd": "12345",
@@ -99,7 +99,7 @@
       "timage":"https://cdn-icons-png.flaticon.com/512/149/149071.png"
     },
     {
-      "tid": 3,
+      "id": 3,
       "tname": "kashish",
       "temail": "kashishwadhwani@gmail.com",
       "tpwd": "12345",
@@ -112,7 +112,7 @@
       "timage":"https://cdn-icons-png.flaticon.com/512/149/149071.png"
     },
     {
-      "tid": 4,
+      "id": 4,
       "tname": "muskan",
       "temail": "muskankushwah@gmail.com",
       "tpwd": "12345",
@@ -127,37 +127,37 @@
   ],
   "course": [
     {
-      "cid": 1,
+      "id": 1,
       "cname": "react-js",
       "camount": 50000,
       "cduration": "12 month"
     },
     {
-      "cid": 2,
+      "id": 2,
       "cname": "mern",
       "camount": 100000,
       "cduration": "12 month"
     },
     {
-      "cid": 3,
+      "id": 3,
       "cname": "mean",
       "camount": 100000,
       "cduration": "12 month"
     },
     {
-      "cid": 4,
+      "id": 4,
       "cname": "python",
       "camount": 120000,
       "cduration": "14 month"
     },
     {
-      "cid": 5,
+      "id": 5,
       "cname": "java",
       "camount": 150000,
       "cduration": "18 month"
     },
     {
-      "cid": 6,
+      "id": 6,
       "cname": "angular",
       "camount": 60000,
       "cduration": "10 month"
@@ -165,7 +165,7 @@
   ],
   "users": [
     {
-      "uid": 1,
+      "id": 1,
       "uname": "arshil",
       "uemail": "arshilbaig@gmail.com",
       "ucontact": "8545699969",
